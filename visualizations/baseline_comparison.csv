@@ -1,0 +1,3 @@
+Model,Accuracy,Macro F1
+Majority-class baseline,0.5641025641025641,0.24043715846994537
+MobileNetV2 transfer learning,0.717948717948718,0.7144446594427244
